@@ -2,7 +2,7 @@ PImage img;
 Pixel[] myPixels;
 int cols, rows;
 int gridSize = 4; // size of each grid cell
-int pixelSize = 10; // size of each pixel
+int pixelSize = 12; // size of each pixel
 
 void setup() {
   size(500, 500);
