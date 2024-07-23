@@ -10,7 +10,7 @@ boolean spacePressed = false;
 void setup() {
   size(1400, 800);
   // select image to display
-  img = loadImage("abstract1.jpeg"); // upload any image here
+  img = loadImage("abstract4.jpeg"); // upload any image here
   smooth();
 
   // calculate the number of columns and rows based on normal grid size
