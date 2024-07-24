@@ -3,8 +3,8 @@ Pixel[] myPixelsNormal, myPixelsPressed;
 int cols, rows;
 int gridSizeNormal = 10;
 int pixelSizeNormal = 20;
-int gridSizePressed = 3;
-int pixelSizePressed = 3;
+int gridSizePressed = 5;
+int pixelSizePressed = 5;
 boolean spacePressed = false;
 
 void setup() {
